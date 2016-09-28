@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 2872668699;
+    Bank Last Revised High = 30230576;
+
+    Wave
+    {
+        Name = 44Fire;
+        File = 44Fire.wav;
+        Build Settings Last Modified Low = 824035272;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 77056;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 999786752;
+            Last Modified High = 29867288;
+        }
+    }
+
+    Wave
+    {
+        Name = 44Reload;
+        File = 44Reload.wav;
+        Build Settings Last Modified Low = 824035272;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 470016;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1587614976;
+            Last Modified High = 29656544;
+        }
+    }
+
+    Wave
+    {
+        Name = 357_fire;
+        File = 357_fire.wav;
+        Build Settings Last Modified Low = 824035272;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 262144;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1339602432;
+            Last Modified High = 29918958;
+        }
+    }
+
+    Wave
+    {
+        Name = AK47_Fire;
+        File = AK47_Fire.wav;
+        Build Settings Last Modified Low = 824191272;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 126632;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 263672320;
+            Last Modified High = 29954705;
+        }
+    }
+
+    Wave
+    {
+        Name = AK47_Reload;
+        File = AK47_Reload.wav;
+        Build Settings Last Modified Low = 824191272;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 264600;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 301933312;
+            Last Modified High = 29581303;
+        }
+    }
+
+    Wave
+    {
+        Name = M9Fire;
+        File = M9Fire.wav;
+        Build Settings Last Modified Low = 824347273;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 53396;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2545032704;
+            Last Modified High = 29531251;
+        }
+    }
+
+    Wave
+    {
+        Name = M9Reload;
+        File = M9Reload.wav;
+        Build Settings Last Modified Low = 824347273;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 184926;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 999786752;
+            Last Modified High = 29867288;
+        }
+    }
+
+    Wave
+    {
+        Name = m14_fire;
+        File = m14_fire.wav;
+        Build Settings Last Modified Low = 824347273;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 348672;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4173004032;
+            Last Modified High = 29905608;
+        }
+    }
+
+    Wave
+    {
+        Name = m249_fire;
+        File = m249_fire.wav;
+        Build Settings Last Modified Low = 824503273;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 75776;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 457640192;
+            Last Modified High = 29762648;
+        }
+    }
+
+    Wave
+    {
+        Name = m249_reload;
+        File = m249_reload.wav;
+        Build Settings Last Modified Low = 824659273;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 467926;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1587614976;
+            Last Modified High = 29656544;
+        }
+    }
+
+    Wave
+    {
+        Name = mp5k_fire;
+        File = mp5k_fire.wav;
+        Build Settings Last Modified Low = 824815273;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 86726;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3485526016;
+            Last Modified High = 29643179;
+        }
+    }
+
+    Wave
+    {
+        Name = mp5k_reload;
+        File = mp5k_reload.wav;
+        Build Settings Last Modified Low = 824815273;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 251630;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1863659008;
+            Last Modified High = 29587777;
+        }
+    }
+
+    Wave
+    {
+        Name = R700Fire;
+        File = R700Fire.wav;
+        Build Settings Last Modified Low = 824971274;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 164378;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2299368192;
+            Last Modified High = 29454023;
+        }
+    }
+
+    Wave
+    {
+        Name = R700Rechamber;
+        File = R700Rechamber.wav;
+        Build Settings Last Modified Low = 825127274;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 20696;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 999786752;
+            Last Modified High = 29867288;
+        }
+    }
+
+    Wave
+    {
+        Name = R700Reload;
+        File = R700Reload.wav;
+        Build Settings Last Modified Low = 825127274;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 230784;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 999786752;
+            Last Modified High = 29867288;
+        }
+    }
+
+    Wave
+    {
+        Name = SPASFire;
+        File = SPASFire.wav;
+        Build Settings Last Modified Low = 825127274;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 81154;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2787194880;
+            Last Modified High = 30000220;
+        }
+    }
+
+    Wave
+    {
+        Name = SPASPump;
+        File = SPASPump.wav;
+        Build Settings Last Modified Low = 825283274;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 21364;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2188882944;
+            Last Modified High = 29918936;
+        }
+    }
+
+    Wave
+    {
+        Name = SPASReload;
+        File = SPASReload.wav;
+        Build Settings Last Modified Low = 825439275;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 17600;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 74102784;
+            Last Modified High = 29482146;
+        }
+    }
+
+    Wave
+    {
+        Name = uzi_fire;
+        File = uzi_fire.wav;
+        Build Settings Last Modified Low = 825595275;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 39572;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1587614976;
+            Last Modified High = 29656544;
+        }
+    }
+
+    Wave
+    {
+        Name = uzi_reload;
+        File = uzi_reload.wav;
+        Build Settings Last Modified Low = 825595275;
+        Build Settings Last Modified High = 30230572;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 132548;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1863659008;
+            Last Modified High = 29587777;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

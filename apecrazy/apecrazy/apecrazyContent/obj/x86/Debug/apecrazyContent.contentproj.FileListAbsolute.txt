@@ -1,0 +1,4 @@
+c:\users\brett\documents\visual studio 2010\Projects\apecrazy\apecrazy\apecrazyContent\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2010\Projects\apecrazy\apecrazy\apecrazyContent\obj\x86\Debug\Sounds\GunSounds\GunSounds.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\apecrazy\apecrazy\apecrazyContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\apecrazy\apecrazy\apecrazyContent\obj\x86\Debug\Sounds\GunSounds\GunSounds.xml

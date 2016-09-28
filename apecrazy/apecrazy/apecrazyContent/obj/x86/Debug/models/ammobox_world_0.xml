@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>ammobox</Name>
+    <Identity>
+      <SourceFilename>C:\Users\admin\Documents\Visual Studio 2010\Projects\apecrazy\apecrazy\apecrazyContent\models\ammobox_world.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Positions>-4.877802 -2.86516047 -6.39263344 -4.877802 -9.444252 -6.39263344 4.877802 -2.86516047 -6.39263344 4.877802 -9.444252 -6.39263344 4.877802 -2.86516047 -6.39263344 4.877802 -9.444252 -6.39263344 4.877802 -2.86516047 -14.3765154 4.877802 -9.444252 -14.3765154 4.877802 -2.86516047 -14.3765154 4.877802 -9.444252 -14.3765154 -4.877802 -2.86516047 -14.3765154 -4.877802 -9.444252 -14.3765154 -4.877802 -2.86516047 -14.3765154 -4.877802 -9.444252 -14.3765154 -4.877802 -2.86516047 -6.39263344 -4.877802 -9.444252 -6.39263344 -4.877802 -2.86516047 -14.3765154 -4.877802 -2.86516047 -6.39263344 4.877802 -2.86516047 -14.3765154 4.877802 -2.86516047 -6.39263344 -4.877802 -9.444252 -6.39263344 -4.877802 -9.444252 -14.3765154 4.877802 -9.444252 -6.39263344 4.877802 -9.444252 -14.3765154</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 2 3 1 6 5 4 6 7 5 10 9 8 10 11 9 14 13 12 14 15 13 18 17 16 18 19 17 22 21 20 22 23 21</Indices>
+        <Vertices>
+          <PositionIndices>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1 1 0 0 1 0 0 1 0 0 1 0 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.4261317 0.03125 0.4261317 0.7801329 0.9713728 0.03125 0.9713728 0.7801329 1 0 1 1 1 0 1 1 0.0218519978 0.07188722 0.0218519978 0.939526439 0.448840857 0.07188722 0.448840857 0.939526439 0 0 0 1 0 0 0 1 0 0 0 0 1 0 1 0 0 1 0 1 1 1 1 1</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Mat3Tex3</Name>
+      <Identity>
+        <SourceFilename>C:\Users\admin\Documents\Visual Studio 2010\Projects\apecrazy\apecrazy\apecrazyContent\models\ammobox_world.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\textures\ammobox.dds</ExternalReference>
+  </ExternalReferences>
+</XnaContent>
